@@ -9,8 +9,13 @@
 </template>
 
 <script>
+
+
 export default {
-  name: 'NavigationBar'
+  name: 'NavigationBar',
+  components: {
+    
+  }
 }
 </script>
 

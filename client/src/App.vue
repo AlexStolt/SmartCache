@@ -28,6 +28,7 @@ export default {
 
   body {
     font-family: 'Hind Siliguri', sans-serif;
+    background-image: url('assets/background.png');
   }
   
 </style>
